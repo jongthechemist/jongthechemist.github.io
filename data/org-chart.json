@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+  },
+  {
+    "id": 1,
+		"name": "Director",
+		"parent": 0,
+		"kpi": 93
+  },
+  {
+    "id": 2,
+    "name": "CEO",
+		"parent": 1,
+		"kpi": 93
+  },
+  {
+    "id": 3,
+    "name": "CFO",
+		"parent": 2,
+		"kpi": 90
+  },
+  {
+    "id": 4,
+    "name": "CTO",
+		"parent": 2,
+		"kpi": 95
+  },
+  {
+    "id": 5,
+    "name": "CIO",
+		"parent": 2,
+		"kpi": 95
+  },
+  {
+    "id": 6,
+    "name": "CCO",
+		"parent": 2,
+		"kpi": 92
+  },
+  {
+    "id": 7,
+    "name": "Manager 1",
+    "parent": 4,
+		"kpi": 98
+  },
+  {
+    "id": 8,
+    "name": "Manager 2",
+    "parent": 4,
+		"kpi": 93
+  },
+  {
+    "id": 9,
+    "name": "Manager 3",
+    "parent": 5,
+    "size": 95
+  },
+  {
+    "id": 10,
+    "name": "Consultant 4",
+    "parent": 8,
+    "kpi": 91
+  }
+]
