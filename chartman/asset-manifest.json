@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chartman/static/css/main.be65c9a0.chunk.css",
-    "main.js": "/chartman/static/js/main.7e035e83.chunk.js",
-    "main.js.map": "/chartman/static/js/main.7e035e83.chunk.js.map",
+    "main.css": "/chartman/static/css/main.3ae53999.chunk.css",
+    "main.js": "/chartman/static/js/main.904b670c.chunk.js",
+    "main.js.map": "/chartman/static/js/main.904b670c.chunk.js.map",
     "runtime~main.js": "/chartman/static/js/runtime~main.680c666c.js",
     "runtime~main.js.map": "/chartman/static/js/runtime~main.680c666c.js.map",
-    "static/css/2.b198ea9d.chunk.css": "/chartman/static/css/2.b198ea9d.chunk.css",
-    "static/js/2.1bbb17db.chunk.js": "/chartman/static/js/2.1bbb17db.chunk.js",
-    "static/js/2.1bbb17db.chunk.js.map": "/chartman/static/js/2.1bbb17db.chunk.js.map",
+    "static/css/2.cd57e24e.chunk.css": "/chartman/static/css/2.cd57e24e.chunk.css",
+    "static/js/2.061a9e71.chunk.js": "/chartman/static/js/2.061a9e71.chunk.js",
+    "static/js/2.061a9e71.chunk.js.map": "/chartman/static/js/2.061a9e71.chunk.js.map",
     "index.html": "/chartman/index.html",
-    "precache-manifest.34c9953a80071c1da28a8013010cdeb3.js": "/chartman/precache-manifest.34c9953a80071c1da28a8013010cdeb3.js",
+    "precache-manifest.8ff89d823ab5bc772308f7531440a47a.js": "/chartman/precache-manifest.8ff89d823ab5bc772308f7531440a47a.js",
     "service-worker.js": "/chartman/service-worker.js",
-    "static/css/2.b198ea9d.chunk.css.map": "/chartman/static/css/2.b198ea9d.chunk.css.map",
-    "static/css/main.be65c9a0.chunk.css.map": "/chartman/static/css/main.be65c9a0.chunk.css.map",
+    "static/css/2.cd57e24e.chunk.css.map": "/chartman/static/css/2.cd57e24e.chunk.css.map",
+    "static/css/main.3ae53999.chunk.css.map": "/chartman/static/css/main.3ae53999.chunk.css.map",
     "static/media/all.css": "/chartman/static/media/fa-solid-900.f14c3b2f.ttf"
   }
 }
