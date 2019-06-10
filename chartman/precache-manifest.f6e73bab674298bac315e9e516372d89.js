@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "655f7c41af01b433bc033834af7fa457",
+    "revision": "b7699b7f6464a37cbd866b334ba6b918",
     "url": "/chartman/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chartman/static/css/2.cd57e24e.chunk.css"
   },
   {
-    "revision": "96421b843f0812558d30",
+    "revision": "15c1e14bb2adae7f871d",
     "url": "/chartman/static/css/main.3ae53999.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chartman/static/js/2.fdf50c91.chunk.js"
   },
   {
-    "revision": "96421b843f0812558d30",
-    "url": "/chartman/static/js/main.69b546a5.chunk.js"
+    "revision": "15c1e14bb2adae7f871d",
+    "url": "/chartman/static/js/main.e30e8cfa.chunk.js"
   },
   {
     "revision": "44c4b52d08141688d9de",
